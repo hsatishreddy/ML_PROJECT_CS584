@@ -26,4 +26,9 @@ Machine learning integration in cybersecurity offers improved threat detection b
     Tuning the models is essential to ensure they generalize well to unseen data and achieve the desired level of accuracy. </br>
     
    **Method Used for Tuning:** </br>
-    Random search: Randomly samples hyperparameters from predefined distributions to find a good solution more efficiently.
+    Random search: Randomly samples hyperparameters from predefined distributions to find a good solution more efficiently. </br>
+
+
+##### Final Model Diagram: </br>
+
+<img src="ML_FLOW_DIAGRAM.png" height="50%" width="100%">
