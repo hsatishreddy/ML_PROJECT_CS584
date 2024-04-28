@@ -16,5 +16,12 @@ Machine learning integration in cybersecurity offers improved threat detection b
     C. **Linear Support Vector Machine (Linear SVC):** Linear Support Vector Machine is a supervised learning algorithm used for classification tasks. It finds the optimal hyperplane that best separates the classes in the feature space, maximizing the margin between them. </br>
     D. **K-Nearest Neighbors:** K-Nearest Neighbors (KNN) is a machine learning algorithm where a data point's classification or regression is determined by the majority vote or average of its 'k' nearest neighbors in the feature space, making it a simple yet effective method for pattern recognition and prediction tasks. </br>
     E. **Linear Discriminant Analysis (LDA ):** Linear Discriminant Analysis is a dimensionality reduction technique and a classification algorithm. It finds linear combinations of features that best separate multiple classes by maximizing the ratio of between-class variance to within-class variance. </br>
-3. **Model Performance Comparison.** </br>
-4. **Tuning the models.** </br>
+   
+    
+3. **Tuning the models.** </br>
+    Model tuning involves adjusting the hyperparameters of the algorithms to optimize their performance. </br>
+    Hyperparameters are parameters that are not directly learned during training but affect the behavior of the model. </br>
+    Tuning the models is essential to ensure they generalize well to unseen data and achieve the desired level of accuracy. </br>
+    
+   **Method Used for Tuning:** </br>
+    Random search: Randomly samples hyperparameters from predefined distributions to find a good solution more efficiently.
