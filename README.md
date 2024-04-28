@@ -1,12 +1,12 @@
 # ML_PROJECT_CS584
-### CYBERSECURITY THREAT DETECTION USING MACHINE LEARNING FRAMEWORKS 
+### **CYBERSECURITY THREAT DETECTION USING MACHINE LEARNING FRAMEWORKS **
 
 <img src="cybersecurity.png" height="50%" width="100%" >
 
 In today's digital landscape, cyber threats, including impersonation attacks, pose significant challenges to system security. Impersonation attacks involve malicious actors posing as legitimate entities to deceive and gain unauthorized access. 
 Machine learning integration in cybersecurity offers improved threat detection by analyzing data patterns, enabling organizations to proactively identify and mitigate these attacks with greater accuracy and efficiency than traditional methods.
 
-##### THE WORK INCLUDES:
+##### **THE WORK INCLUDES:**
 
 1. **Data Preprocessing:** </br>
     A. Feature Generation: A Variational Autoencoder is used to generate 20 additional features to add to the data set. </br>
@@ -29,6 +29,6 @@ Machine learning integration in cybersecurity offers improved threat detection b
     Random search: Randomly samples hyperparameters from predefined distributions to find a good solution more efficiently. </br>
 
 
-##### Final Model Diagram: </br>
+##### **Final Model Diagram:** </br>
 
-<img src="ML_FLOW_DIAGRAM.png" height="50%" width="100%">
+<img src="ML_FLOW_DIAGRAM.png" height="40%" width="50%">
