@@ -38,4 +38,4 @@ Machine learning integration in cybersecurity offers improved threat detection b
 
 [Training Data](https://drive.google.com/drive/folders/1HaNSYsG6i0SYJmEII7eRe4BWEVBILk5A) ,
 [Testing Data](https://drive.google.com/drive/folders/1HaNSYsG6i0SYJmEII7eRe4BWEVBILk5A) ,
-[Column Names](https://drive.google.com/drive/folders/1HaNSYsG6i0SYJmEII7eRe4BWEVBILk5A) ,
+[Column Names](https://drive.google.com/drive/folders/1HaNSYsG6i0SYJmEII7eRe4BWEVBILk5A) 
